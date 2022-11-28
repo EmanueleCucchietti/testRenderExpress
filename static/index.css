@@ -76,4 +76,8 @@
 	#divHair {
 		text-align:left !important;
 	}
+    #mainTable tbody tr td{
+        font-size: 9pt;
+        padding: 4px;
+    }
 }
